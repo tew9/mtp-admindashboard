@@ -1,5 +1,5 @@
 {
-  "name": "mtp-k-onlinedashboard",
+  "name": "mtp-k-admindashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
